@@ -1,4 +1,4 @@
-# pedeai-db
+# fiapx-db
 
 Repository to provision AWS RDS database using Terraform.
 
